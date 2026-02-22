@@ -1,2 +1,3 @@
 # ATS_Steps
-Multi-cloud AI-powered Applicant Tracking System deployed on AWS EC2 with Google Gemini API integration for automated resume analysis and scoring.
+This project is a cloud-deployed AI-powered Applicant Tracking System that evaluates resumes against job descriptions using Google Gemini AI.
+The application is hosted on AWS EC2 and integrates with Google Cloud’s Generative Language API to provide intelligent resume scoring, missing skill detection, and improvement suggestions.
